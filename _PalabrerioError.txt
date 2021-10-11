@@ -1,0 +1,592 @@
+[
+	{
+		"id": 54,
+		"typed": "h",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885128861
+	},
+	{
+		"id": 55,
+		"typed": "t",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885129001
+	},
+	{
+		"id": 56,
+		"typed": "p",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885129005
+	},
+	{
+		"id": 57,
+		"typed": "o",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885129010
+	},
+	{
+		"id": 58,
+		"typed": "m",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885129023
+	},
+	{
+		"id": 59,
+		"typed": "a",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885134330
+	},
+	{
+		"id": 60,
+		"typed": "e",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885134334
+	},
+	{
+		"id": 61,
+		"typed": "w",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885134364
+	},
+	{
+		"id": 62,
+		"typed": "j",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885134379
+	},
+	{
+		"id": 67,
+		"typed": "/",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885134640
+	},
+	{
+		"id": 70,
+		"typed": "5",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885134677
+	},
+	{
+		"id": 71,
+		"typed": "f",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885134686
+	},
+	{
+		"id": 72,
+		"typed": " ",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885134701
+	},
+	{
+		"id": 73,
+		"typed": "p",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885143407
+	},
+	{
+		"id": 74,
+		"typed": "i",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885143442
+	},
+	{
+		"id": 75,
+		"typed": "o",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885143528
+	},
+	{
+		"id": 76,
+		"typed": "i",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885150569
+	},
+	{
+		"id": 77,
+		"typed": "o",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885150580
+	},
+	{
+		"id": 78,
+		"typed": "p",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885150591
+	},
+	{
+		"id": 79,
+		"typed": "p",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633885501674
+	},
+	{
+		"id": 80,
+		"typed": "theme.darkTheme",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633893380754
+	},
+	{
+		"id": 81,
+		"typed": "s",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633893476904
+	},
+	{
+		"id": 82,
+		"typed": "a",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633893477092
+	},
+	{
+		"id": 83,
+		"typed": "a",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633893477279
+	},
+	{
+		"id": 84,
+		"typed": "s",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633893477365
+	},
+	{
+		"id": 85,
+		"typed": "q",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 11,
+		"timestamp": 1633893500334
+	},
+	{
+		"id": 86,
+		"typed": "s",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 13,
+		"timestamp": 1633893501404
+	},
+	{
+		"id": 87,
+		"typed": "e",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 13,
+		"timestamp": 1633893501555
+	},
+	{
+		"id": 88,
+		"typed": " ",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633894271706
+	},
+	{
+		"id": 89,
+		"typed": "s",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633894271929
+	},
+	{
+		"id": 90,
+		"typed": "e",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633894272116
+	},
+	{
+		"id": 91,
+		"typed": "g",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633894272219
+	},
+	{
+		"id": 92,
+		"typed": " ",
+		"expected": "r",
+		"prevChar": "e",
+		"currentWord": "ter ",
+		"charIndex": 2,
+		"wordIndex": 7,
+		"timestamp": 1633894277655
+	},
+	{
+		"id": 93,
+		"typed": "c",
+		"expected": " ",
+		"prevChar": "r",
+		"currentWord": "ter ",
+		"charIndex": 3,
+		"wordIndex": 7,
+		"timestamp": 1633894277881
+	},
+	{
+		"id": 94,
+		"typed": "u",
+		"expected": " ",
+		"prevChar": "r",
+		"currentWord": "ter ",
+		"charIndex": 3,
+		"wordIndex": 7,
+		"timestamp": 1633894277965
+	},
+	{
+		"id": 95,
+		"typed": "a",
+		"expected": " ",
+		"prevChar": "r",
+		"currentWord": "ter ",
+		"charIndex": 3,
+		"wordIndex": 7,
+		"timestamp": 1633894278067
+	},
+	{
+		"id": 96,
+		"typed": "r",
+		"expected": " ",
+		"prevChar": "r",
+		"currentWord": "ter ",
+		"charIndex": 3,
+		"wordIndex": 7,
+		"timestamp": 1633894278153
+	},
+	{
+		"id": 97,
+		"typed": "g",
+		"expected": "x",
+		"prevChar": "e",
+		"currentWord": "sex ",
+		"charIndex": 2,
+		"wordIndex": 12,
+		"timestamp": 1633894281442
+	},
+	{
+		"id": 98,
+		"typed": " ",
+		"expected": "x",
+		"prevChar": "e",
+		"currentWord": "sex ",
+		"charIndex": 2,
+		"wordIndex": 12,
+		"timestamp": 1633894281607
+	},
+	{
+		"id": 99,
+		"typed": "e",
+		"expected": "s",
+		"prevChar": " ",
+		"currentWord": "sex ",
+		"charIndex": 0,
+		"wordIndex": 13,
+		"timestamp": 1633894282594
+	},
+	{
+		"id": 100,
+		"typed": "s",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 16,
+		"timestamp": 1633894284649
+	},
+	{
+		"id": 101,
+		"typed": "s",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 24,
+		"timestamp": 1633894289488
+	},
+	{
+		"id": 102,
+		"typed": "g",
+		"expected": "x",
+		"prevChar": "e",
+		"currentWord": "sex ",
+		"charIndex": 2,
+		"wordIndex": 10,
+		"timestamp": 1633895736151
+	},
+	{
+		"id": 103,
+		"typed": "s",
+		"expected": "t",
+		"prevChar": " ",
+		"currentWord": "ter ",
+		"charIndex": 0,
+		"wordIndex": 22,
+		"timestamp": 1633895743406
+	},
+	{
+		"id": 104,
+		"typed": "e",
+		"expected": "t",
+		"prevChar": " ",
+		"currentWord": "ter ",
+		"charIndex": 0,
+		"wordIndex": 22,
+		"timestamp": 1633895743537
+	},
+	{
+		"id": 105,
+		"typed": "r",
+		"expected": "e",
+		"prevChar": "t",
+		"currentWord": "ter ",
+		"charIndex": 1,
+		"wordIndex": 22,
+		"timestamp": 1633895743856
+	},
+	{
+		"id": 106,
+		"typed": " ",
+		"expected": "r",
+		"prevChar": "e",
+		"currentWord": "ter ",
+		"charIndex": 2,
+		"wordIndex": 22,
+		"timestamp": 1633895744106
+	},
+	{
+		"id": 107,
+		"typed": "r",
+		"expected": "s",
+		"prevChar": " ",
+		"currentWord": "seg ",
+		"charIndex": 0,
+		"wordIndex": 24,
+		"timestamp": 1633895745930
+	},
+	{
+		"id": 108,
+		"typed": "x",
+		"expected": "g",
+		"prevChar": "e",
+		"currentWord": "seg ",
+		"charIndex": 2,
+		"wordIndex": 33,
+		"timestamp": 1633895753474
+	},
+	{
+		"id": 109,
+		"typed": "q",
+		"expected": "c",
+		"prevChar": " ",
+		"currentWord": "cuar ",
+		"charIndex": 0,
+		"wordIndex": 38,
+		"timestamp": 1633895756718
+	},
+	{
+		"id": 110,
+		"typed": "r",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 42,
+		"timestamp": 1633895760811
+	},
+	{
+		"id": 111,
+		"typed": "p",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 42,
+		"timestamp": 1633895761229
+	},
+	{
+		"id": 112,
+		"typed": "p",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 42,
+		"timestamp": 1633895762112
+	},
+	{
+		"id": 113,
+		"typed": "p",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 42,
+		"timestamp": 1633895762312
+	},
+	{
+		"id": 114,
+		"typed": "p",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 42,
+		"timestamp": 1633895762474
+	},
+	{
+		"id": 115,
+		"typed": "p",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 42,
+		"timestamp": 1633895762652
+	},
+	{
+		"id": 116,
+		"typed": "p",
+		"expected": "q",
+		"prevChar": " ",
+		"currentWord": "qui ",
+		"charIndex": 0,
+		"wordIndex": 42,
+		"timestamp": 1633895762776
+	},
+	{
+		"id": 117,
+		"typed": " ",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 0,
+		"timestamp": 1633895777448
+	},
+	{
+		"id": 118,
+		"typed": "q",
+		"expected": "p",
+		"prevChar": " ",
+		"currentWord": "pri ",
+		"charIndex": 0,
+		"wordIndex": 9,
+		"timestamp": 1633907382991
+	}
+]
